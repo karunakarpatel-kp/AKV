@@ -30,10 +30,10 @@ export default function Home() {
             </p>
             <div className="flex  space-x-1 md:space-x-2 border-0 border-red-900 flex-wrap  justify-start space-y-2 items-baseline mt-1 md:mt-3 lg:mt-3">
               <div className="no-underline border border-slate-100 bg-slate-100 dark:bg-slate-900 dark:border-slate-700 rounded-lg px-3 py-1 text-base md:text-sm lg:text-base ">
-                Abomma
+                Middle Class Kitchen
               </div>
               <div className="no-underline border border-slate-100 bg-slate-100 dark:bg-slate-900 dark:border-slate-700 rounded-lg px-3 py-1 text-base md:text-sm lg:text-base ">
-                Karunakar Patel
+                Karunakar
               </div>
               <div className="no-underline border border-slate-100 bg-slate-100 dark:bg-slate-900 dark:border-slate-700 rounded-lg px-3 py-1 text-base md:text-sm lg:text-base ">
                 Patel

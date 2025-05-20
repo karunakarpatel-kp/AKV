@@ -118,9 +118,9 @@ const Navigation = (props: NavigationProps) => {
       {homePage && (
         <div className="border-0 border-white text-white pt-10 bg-brandColor ">
           <div className="text-white border-0 text-center py-9 mt-10">
-            <h1 className="text-white font-bold text-3xl md:text-4xl">Welcome to Abomma</h1>
+            <h1 className="text-white font-bold text-3xl md:text-4xl">Welcome to Middle Class Restaurant</h1>
             <p className="text-white font-semibold text-xl capitalize">
-              A place where you learn about the latest news, updates, upcoming releases at Ibomma.
+              A place where you taste and feel the true adventures of multicuisine dishes.
             </p>
           </div>
         </div>
